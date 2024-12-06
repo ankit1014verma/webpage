@@ -49,15 +49,14 @@ st.set_page_config(page_title="Home Tutor Website", page_icon="📚")
 
 
 # Header
-st.title("Welcome to Verma Home Tutoring Services 📚")
+st.title("Welcome to Home Tutoring Services 📚")
 
 # About Section
-st.header("About Me")
 st.write("""
-Hi! I am Ankit (MTech-Chemical Engineering, IIT Kanpur), a passionate and dedicated home tutor with 6+ years of experience in teaching Science and Maths.  
+Hi! we are a team of passionate and dedicated home tutor with 6+ years of experience in teaching Science and Maths.  
 I specialize in helping students improve their academic performance, build confidence, and develop a love for learning.  
 
-My approach is personalized and focused on addressing the individual learning needs of each student. I offer tutoring in the following subjects:
+Our approach is personalized and focused on addressing the individual learning needs of each student. I offer tutoring in the following subjects:
 - Mathematics
 - Physics
 - Chemistry
@@ -67,7 +66,7 @@ My approach is personalized and focused on addressing the individual learning ne
 # Services Section
 st.header("My Services")
 st.write("""
-I offer the following tutoring services:
+We offer the following tutoring services:
 - One-on-one in-person tutoring
 - Online tutoring sessions (via Zoom, Google Meet, etc.)
 - Homework assistance and exam preparation
